@@ -1,0 +1,6 @@
+# Coventry University Course Scraper – Python dependencies
+# Install with: pip install -r requirements.txt
+
+requests==2.32.3          # HTTP client
+beautifulsoup4==4.12.3    # HTML parsing
+lxml==5.3.0               # Fast HTML/XML parser (bs4 backend)
